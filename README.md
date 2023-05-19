@@ -1,3 +1,3 @@
 # Leet Code Practice
 
-Google Practice Questions
+Interview Practice Questions
